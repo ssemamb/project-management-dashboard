@@ -43,7 +43,7 @@ services:
           property: password
 
 databases:
-  - name: project_mgt_db
-   - type: postgresql
-   - plan: free
+  - name: project_mgt
+
+
 
