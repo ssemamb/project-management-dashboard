@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="Dashboard - Project_Mgt - Google Chrome 16_10_2025 09_31_19 - Copy" src="https://github.com/user-attachments/assets/b0fa9b17-c3cf-4fa9-b289-f6094c3ff7a8" /># 🚀 Project Management Dashboard
+ 🚀 Project Management Dashboard
 
 <div align="center">
 
