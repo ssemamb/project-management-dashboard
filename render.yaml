@@ -44,3 +44,5 @@ services:
 
 databases:
   - name: project_mgt_db
+    type: postgresql
+    plan: free
