@@ -499,7 +499,7 @@ I'm available for freelance Laravel & Filament development:
 - 🐛 **Bug Fixes & Optimization**
 
 **Platforms:**
-- [Upwork Profile](https://www.upwork.com/freelancers/~0127f65430b516b7d6)
+- [Upwork Profile](https://www.upwork.com/freelancers/~0127f65430b516b7d6?viewMode=1)
 - [Fiverr Profile](https://fiverr.com/yourusername)
 
 ---
